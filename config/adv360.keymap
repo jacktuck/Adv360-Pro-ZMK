@@ -37,8 +37,8 @@
         symbols {
             bindings = <
 &kp F1  &kp F2  &kp F3          &kp F4            &kp F5             &kp F6     &tog 0                               &mo 2            &kp F7         &kp F8                &kp F9                 &kp F10        &kp F11  &kp F12
-&trans  &kp     &kp PERCENT     &kp LESS_THAN     &kp GREATER_THAN   &kp HASH   &kp AT_SIGN                          &kp EXCLAMATION  &kp TILDE      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp ASTERISK   &kp      &kp
-&trans  &kp     &kp GRAVE       &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp CARET  &kp DOLLAR   &kp  &kp      &kp  &kp  &kp EQUAL        &kp AMPERSAND  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SLASH      &kp      &kp
+&trans  &kp     &kp PERCENT     &kp LESS_THAN     &kp GREATER_THAN   &kp HASH   &kp AT_SIGN                          &kp EXCLAMATION  &kp EQUAL      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp ASTERISK   &kp      &kp
+&trans  &kp     &kp GRAVE       &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp CARET  &kp DOLLAR   &kp  &kp      &kp  &kp  &kp TILDE        &kp AMPERSAND  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SLASH      &kp      &kp
 &trans  &kp     &kp UNDERSCORE  &kp MINUS         &kp PLUS           &trans                       &kp      &kp                        &kp PIPE       &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp BACKSLASH  &kp      &kp
 &kp     &kp     &kp             &kp               &kp                           &kp          &kp  &kp      &kp  &kp  &kp                             &kp                   &kp                    &kp            &kp      &kp
             >;
