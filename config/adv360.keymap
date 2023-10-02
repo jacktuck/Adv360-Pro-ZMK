@@ -5,7 +5,7 @@
 #include <dt-bindings/zmk/rgb.h>
 
 #define HYPER LS(LC(LA(LGUI)))
-#define MEH LS(LC(LA))
+#define MEH LS(LC(LA(LGUI)))
 
 / {
     behaviors {
